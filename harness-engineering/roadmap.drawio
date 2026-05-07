@@ -1,0 +1,79 @@
+<mxfile host="65bd71144e">
+    <diagram id="gat3vifJwNGXArahShg8" name="Page-1">
+        <mxGraphModel dx="1726" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Harness Engineering Architecture&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="10" width="419" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Cloud service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="360" y="280" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Finite authorization for pre-assigned application/port" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="180" y="90" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Auto error identidy&lt;div&gt;auto-fix&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="610" y="110" width="220" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="NanoClaw sandbox" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="180" y="50" width="650" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="security" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="180" y="70" width="220" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="runtime&amp;nbsp;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="550" y="90" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="telemetry &lt;br&gt;orchestration" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="360" y="185" width="180" height="95" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="action" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="550" y="70" width="280" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="HW video capture" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="90" width="60" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Low cost AI backend" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="180" y="160" width="650" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;b&gt;Local model&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="280" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="github repo&lt;div&gt;line/tg/gmail&lt;/div&gt;&lt;div&gt;api/browser)&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="90" width="110" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="sensing" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="400" y="70" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="syslog" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="90" width="60" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;div&gt;ordering&lt;/div&gt;&lt;div&gt;backtest&lt;br&gt;&lt;div&gt;&amp;nbsp;alert&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+                    <mxGeometry x="550" y="110" width="60" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="devtime" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="610" y="90" width="220" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="loop:identify-&amp;gt;issue-&amp;gt;fix pr-&amp;gt; ci -&amp;gt; merge" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="140" width="220" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;usage&lt;/span&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="540" y="185" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;cost&lt;/span&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="540" y="215" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;performance&lt;/span&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="540" y="245" width="70" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Deepseak" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="310" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;div&gt;Qwen/Kimi&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="310" width="130" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
